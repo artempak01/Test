@@ -33,8 +33,8 @@ namespace WebApplication2.Pages
                 Balanses.Add(new Balance(double.Parse(item["in_balance"].ToString()), double.Parse(item["calculation"].ToString()), Int32.Parse(item["account_id"].ToString()), item["period"].ToString()));
             }
             Balanses = Balanses.Where(balance => balance.AccountId == accountId).
-                OrderBy(s => s.Period.Year).
-                ThenBy(s=>s.Period.Month).
+                OrderByDescending(s => s.Period.Year).
+                ThenByDescending(s=>s.Period.Month).
                 ToList();
 
             return Balanses;
