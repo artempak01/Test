@@ -1,0 +1,344 @@
+[
+	{
+		"account_id" : 808251,
+		"date" : "2019-02-22 09:25:00",
+		"sum" : 100.00,
+		"payment_guid" : "ded84f45-aa79-4e10-ae1c-9f1ee4062709"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-02-02 14:50:32",
+		"sum" : 8840.63,
+		"payment_guid" : "ff18a790-f9c3-440c-9f9b-7e085a6531e6"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-03-15 21:06:10",
+		"sum" : 4612.10,
+		"payment_guid" : "a1a85f99-8e1c-4a70-901e-eab334e3bc12"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-04-06 08:47:08",
+		"sum" : 4117.30,
+		"payment_guid" : "29bd3151-c2b0-467a-a32c-d7df6ea8a495"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-05-21 20:51:43",
+		"sum" : 3744.13,
+		"payment_guid" : "d8c1da6b-1cfd-4b5b-bfa7-ff6e553372e4"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-07-01 20:05:23",
+		"sum" : 6493.68,
+		"payment_guid" : "9291f910-b160-471f-8cdf-56d7dbbf78ba"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-08-08 08:47:43",
+		"sum" : 2708.58,
+		"payment_guid" : "b5b7c9e5-f2c6-400f-b708-b1b42c9652c5"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-08-08 10:19:46",
+		"sum" : 1.00,
+		"payment_guid" : "34168b38-c77c-4474-a440-0f74e980e978"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-09-10 21:45:30",
+		"sum" : 2361.34,
+		"payment_guid" : "fffe8706-9779-4be0-b836-5b074c779e6a"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-10-01 21:30:36",
+		"sum" : 3314.17,
+		"payment_guid" : "7cf9e5d2-1a09-400c-a4b4-d5aecc8c760e"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-01-07 09:56:23",
+		"sum" : 4034.72,
+		"payment_guid" : "6cb33594-dd8a-4d86-9db8-85e7488b80d3"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-01-13 12:45:01",
+		"sum" : 1.00,
+		"payment_guid" : "9ec11c18-7e05-41cd-a3cf-8d2d9e4309fb"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-01-13 12:37:02",
+		"sum" : 10.00,
+		"payment_guid" : "fb6882bc-a5f3-466c-9655-7d296f2c8103"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-01-13 12:38:45",
+		"sum" : 1.00,
+		"payment_guid" : "aaa2ff85-fb86-4794-b53b-5d8f51eb6206"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-07-24 16:35:32",
+		"sum" : 10.00,
+		"payment_guid" : "a97c9733-9961-4994-9eef-cd69478040c4"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-07-08 10:51:53",
+		"sum" : 10.00,
+		"payment_guid" : "9800b5ee-f0b1-4bdd-863c-2eccf7482ca8"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-07-03 14:05:58",
+		"sum" : 1425.48,
+		"payment_guid" : "acb7f497-d3d2-44a9-9f41-a80d6bcb4d94"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-27 11:03:47",
+		"sum" : 10.00,
+		"payment_guid" : "e1281c35-283f-48bc-a4f7-e66af74dee3a"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-21 12:12:02",
+		"sum" : 10.00,
+		"payment_guid" : "c55c137c-3c89-4aa5-8451-cffbb7828a6f"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-21 12:13:52",
+		"sum" : 1.00,
+		"payment_guid" : "1b540330-4be2-4369-9944-4710ecc49dd9"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-19 20:40:21",
+		"sum" : 100.00,
+		"payment_guid" : "e10d8845-dbb6-437e-b47c-657f5225d01d"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-15 14:19:48",
+		"sum" : 10.00,
+		"payment_guid" : "2bd2da3a-c6ed-463b-9135-159520399804"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-15 14:20:19",
+		"sum" : 15.00,
+		"payment_guid" : "5721a487-70d6-4fa7-a81a-d9f52002052b"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-20 08:55:18",
+		"sum" : 1000.00,
+		"payment_guid" : "ff577d1a-6781-46d6-973b-bf4cb703fe3a"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-21 12:13:14",
+		"sum" : 165.00,
+		"payment_guid" : "f514b40c-095e-4e9b-b3c3-cd4d0774ff95"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-15 14:21:09",
+		"sum" : 29.39,
+		"payment_guid" : "f6f5c6fb-e6ae-473d-bf70-f32e7472d7a6"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-05-19 20:40:45",
+		"sum" : 125.00,
+		"payment_guid" : "14f65234-54eb-4ca7-bd46-ec9b9a4ed2dc"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-11-01 10:03:05",
+		"sum" : 3812.30,
+		"payment_guid" : "c4858527-5edc-45df-a01c-c630901f23bf"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2019-12-02 13:29:17",
+		"sum" : 4094.20,
+		"payment_guid" : "e3327b59-4bb5-4a35-a049-45447d7a1a33"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-01-10 20:56:14",
+		"sum" : 4198.42,
+		"payment_guid" : "992d1d03-7b6b-4d09-8bcc-9061f272d7a5"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-01-30 00:35:27",
+		"sum" : 20.00,
+		"payment_guid" : "a67d331a-30a6-4b76-9937-e65a2be876b8"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-02-01 12:33:07",
+		"sum" : 4217.02,
+		"payment_guid" : "0b4120f3-efa1-4243-9862-e264e3d879c7"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-06-19 13:29:30",
+		"sum" : 1411.11,
+		"payment_guid" : "81dd2abd-cc90-466d-9442-8853d3c4d64e"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-04-21 12:05:18",
+		"sum" : 1.00,
+		"payment_guid" : "d03f927a-6cff-4c27-9b94-958eed4a9f63"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-04-21 12:07:18",
+		"sum" : 10.00,
+		"payment_guid" : "69ae0749-c20a-413e-8b13-5a22ce1eb32a"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-04-21 12:04:32",
+		"sum" : 10.00,
+		"payment_guid" : "ab8c3615-6e3d-45d9-ba28-47b1d8f6e21c"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-04-01 14:28:35",
+		"sum" : 7382.72,
+		"payment_guid" : "df2740ec-9436-4271-959f-2c0c2531e8b0"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-11-18 19:32:30",
+		"sum" : 3702.91,
+		"payment_guid" : "124e2884-a800-4a18-9c55-af95d7dbb29a"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-08-05 11:01:52",
+		"sum" : 3598.13,
+		"payment_guid" : "a8920cef-5d6a-437f-8ba6-f2591bd18790"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-08-11 12:46:45",
+		"sum" : 10.00,
+		"payment_guid" : "c93331fa-175c-491a-9f1b-cf8242a6ab05"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-10-02 14:58:46",
+		"sum" : 3672.17,
+		"payment_guid" : "71f1eba9-de8e-4599-8ecf-a3149bab1179"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-09-04 16:44:15",
+		"sum" : 4243.45,
+		"payment_guid" : "82dcf303-1839-42de-aa37-bdb85c603cde"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-04-09 22:46:04",
+		"sum" : 3976.37,
+		"payment_guid" : "6449bdcb-b5cc-421e-83fa-53fdbd27ea40"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-04 19:47:51",
+		"sum" : 4179.80,
+		"payment_guid" : "6cc291bd-17c2-41f4-9396-32c5293dca58"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 17:57:48",
+		"sum" : 5.00,
+		"payment_guid" : "649458aa-85ad-4809-8155-b8cb34c8e492"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 17:55:14",
+		"sum" : 10.00,
+		"payment_guid" : "dcfa3aa7-c7fb-4a42-8ddf-5e7e063899b4"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 17:53:23",
+		"sum" : 43.54,
+		"payment_guid" : "e113d4f9-8b6d-4b51-b144-d0ba3833a77c"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 20:55:20",
+		"sum" : 20.00,
+		"payment_guid" : "7ac3e34d-55e6-45f6-8eb5-274969aa3f95"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 20:50:02",
+		"sum" : 12.20,
+		"payment_guid" : "038fb8c2-d7a3-4cf7-a65b-1e7bef26e06c"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 19:51:06",
+		"sum" : 8.00,
+		"payment_guid" : "19eb22bb-4160-48e5-b256-f9c6c183d5b5"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 20:57:00",
+		"sum" : 15.00,
+		"payment_guid" : "b16f527c-f358-413b-bc26-eca3235caddf"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-02-03 17:52:44",
+		"sum" : 100.00,
+		"payment_guid" : "ffd741ba-6a79-460e-90ba-aaf834e3d7e0"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-12-05 15:24:57",
+		"sum" : 3872.25,
+		"payment_guid" : "d9af2afc-658b-4a82-aae6-1973f2bb4992"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2020-12-28 13:09:01",
+		"sum" : 1.00,
+		"payment_guid" : "d5c26f52-219f-4e26-b84d-68d1cb04fdac"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-03-04 14:32:23",
+		"sum" : 4133.56,
+		"payment_guid" : "459051e6-9c1a-4272-988e-6fc0162c2879"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-03-30 15:50:42",
+		"sum" : 10.00,
+		"payment_guid" : "98698da6-7822-4f07-a735-6b9d4de4a8a4"
+	},
+	{
+		"account_id" : 808251,
+		"date" : "2021-03-30 16:05:07",
+		"sum" : 10.00,
+		"payment_guid" : "a5b6c10f-165f-457d-acd2-afe87f5296f5"
+	}
+]

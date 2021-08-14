@@ -1,0 +1,165 @@
+{
+"balance": [
+	{
+		"account_id" : 808251,
+		"period" : 202003,
+		"in_balance" : 4176.03,
+		"calculation" : 3206.69
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201907,
+		"in_balance" : 6493.68,
+		"calculation" : 2708.58
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201901,
+		"in_balance" : 9480.45,
+		"calculation" : 4186.33
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201903,
+		"in_balance" : 4612.10,
+		"calculation" : 4117.30
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201904,
+		"in_balance" : 4117.30,
+		"calculation" : 3744.13
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201905,
+		"in_balance" : 3744.13,
+		"calculation" : 3736.89
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202102,
+		"in_balance" : 4393.54,
+		"calculation" : 4133.56
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201908,
+		"in_balance" : 0,
+		"calculation" : 2362.34
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201909,
+		"in_balance" : 2361.34,
+		"calculation" : 3314.17
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201910,
+		"in_balance" : 3314.17,
+		"calculation" : 3812.30
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201911,
+		"in_balance" : 3812.30,
+		"calculation" : 4094.20
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201912,
+		"in_balance" : 100,
+		"calculation" : 4198.42
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202012,
+		"in_balance" : 3872.25,
+		"calculation" : 4035.72
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202001,
+		"in_balance" : 4198.42,
+		"calculation" : 4217.02
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202002,
+		"in_balance" : 4197.02,
+		"calculation" : 4196.03
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202004,
+		"in_balance" : 150,
+		"calculation" : 1475.39
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202101,
+		"in_balance" : 4034.72,
+		"calculation" : 4405.54
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202005,
+		"in_balance" : 1454.39,
+		"calculation" : 1422.11
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202103,
+		"in_balance" : 90,
+		"calculation" : 3996.37
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202006,
+		"in_balance" : 1411.11,
+		"calculation" : 1425.48
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202007,
+		"in_balance" : 1425.48,
+		"calculation" : 3618.13
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202008,
+		"in_balance" : 850,
+		"calculation" : 4253.45
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201902,
+		"in_balance" : 8840.63,
+		"calculation" : 4712.10
+	},
+	{
+		"account_id" : 808251,
+		"period" : 201906,
+		"in_balance" : 3736.89,
+		"calculation" : 2756.79
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202009,
+		"in_balance" : 4243.45,
+		"calculation" : 3672.17
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202010,
+		"in_balance" : 3672.17,
+		"calculation" : 3702.91
+	},
+	{
+		"account_id" : 808251,
+		"period" : 202011,
+		"in_balance" : 3702.91,
+		"calculation" : 3872.25
+	}
+]}

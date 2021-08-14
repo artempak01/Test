@@ -1,0 +1,43 @@
+﻿@page
+@model IndexModel
+@using WebApplication2.models
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <table id="table">
+        <thead>
+
+            <tr>
+                <td>Наименование периода</td>
+                <td>Входящее сальдо на начало периода</td>
+                <td>Начислено за период</td>
+                <td>Оплачено за период</td>
+                <td>Исходящий баланс на конец периода</td>
+            </tr>
+            @foreach (var item in Model.Balances)
+            {
+                <tr>
+                    <td>
+                        @(@item.Period.Year + "." + item.Period.Month)
+                    </td>
+                    <td>
+                        @item.In_balance
+                    </td>
+                    <td>
+                        @item.Calculation
+                    </td>
+                    <td>
+                       @item.Bills_sum
+                    </td>
+                    <td>
+                        @item.Out_balance
+                    </td>
+                </tr>
+            }
+        </thead>
+        <tbody>
+        </tbody>
+        </table>
+</div>
